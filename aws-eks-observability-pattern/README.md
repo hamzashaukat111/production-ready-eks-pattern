@@ -42,8 +42,9 @@ resource "aws_eks_addon" "cloudwatch_observability" {
 ```
 
 🔗 References
-Full Case Study: [Link to your Blog Post]
 
-AWS Documentation: CloudWatch Container Insights Pricing
+Full Case Study: https://www.xgrid.co/resources/how-we-got-30x-more-eks-metrics-while-slashing-client-costs/
+
+AWS Documentation: https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/
 
 Maintained by Hamza Shaukat
